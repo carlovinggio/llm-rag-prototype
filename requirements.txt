@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+azure-search-documents
+openai
+python-dotenv
+langchain_openai
+langchain_core
+langchain-community
