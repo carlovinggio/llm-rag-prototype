@@ -37,3 +37,6 @@ Consider that AZURE has free services (basic ones) that you can easily setup
 Bonus:
 In order demonstrate multi-source retrieval, when calling the "search_documents" function you can set the index name
 
+
+- Since I read that you use fastapi, I decided to use it since it is so fast to build, I also dockerized it
+- There are several things to do, I'd implement a client system where I could decide to which base knowledge to call the RAG
